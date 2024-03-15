@@ -45,13 +45,7 @@
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gubrux&theme=aura&hide_border=true" alt="GitHub Streak" /></a>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-gubrux.vercel.app/api/top-langs/?username=gubrux&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
