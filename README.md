@@ -33,7 +33,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gubrux/gubrux/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
