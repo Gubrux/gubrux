@@ -35,12 +35,6 @@
   
   <br/>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gubrux&theme=aura&hide_border=true" alt="GitHub Streak" /></a>
-  <br/>
-</div>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
