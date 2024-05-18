@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,express,firebase,mongodb,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,express,firebase,mongodb,flask,dart,flutter" /><br>
 </div>
 
 <br/>
