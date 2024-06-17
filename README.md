@@ -21,7 +21,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,express,firebase,mongodb,flask,dart,flutter,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,javascript,nodejs,typescript,python,express,firebase,mongodb,flask,vercel" /><br>
 </div>
 
 <br/>
