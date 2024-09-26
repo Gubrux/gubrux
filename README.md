@@ -20,7 +20,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nest,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,python,express,firebase,mongodb,flask,html,css,vercel" /><br>
 </div>
 
