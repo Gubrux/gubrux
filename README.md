@@ -14,7 +14,7 @@
 
  <hr/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=next,react,tailwind,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,next,react,tailwind,typescript" /><br>
 </div>
 
 <br/>
