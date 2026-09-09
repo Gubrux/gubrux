@@ -5,9 +5,6 @@
 <h3 align="center">From Paraguay 🇵🇾</h3> -->
 
 <div align="center"> 
-  <a href="mailto:gabrielcentur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
     <br>
   <a href="https://www.linkedin.com/in/gabriel-centur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
